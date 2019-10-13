@@ -1,4 +1,4 @@
-# quantumworkout - GAMERULES
+# USER GUIDE AND RULES OF THE GAME
 README
 
 Hello World,
