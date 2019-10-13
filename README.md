@@ -1,4 +1,4 @@
-# quantumworkouts
+# quantumworkouts - KNOW THE GAME
 README
 
 Hello World,
